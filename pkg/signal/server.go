@@ -8,11 +8,6 @@ import (
 	"sync"
 )
 
-type Application struct {
-	community string
-	mac       string
-}
-
 // we need a signaling server to manage the WebRTC connections
 // the signaling server will keep track of the devices in each community
 // and the connections between devices

@@ -9,3 +9,4 @@ day 1:
 
 day 2:
     - start working on the signaling server
+    - get messages and message types
