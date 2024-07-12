@@ -1,4 +1,4 @@
-# wiretap
+# skyfile
 
 app which is supposed to work like apple's airdrop.
 share any files between any devices connected on the same network.
