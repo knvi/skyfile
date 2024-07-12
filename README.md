@@ -7,3 +7,5 @@ day 1:
     - set up the project
     - create a simple server
 
+day 2:
+    - start working on the signaling server
