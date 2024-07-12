@@ -8,5 +8,8 @@ day 1:
     - create a simple server
 
 day 2:
+    - remove the server we had so far
     - start working on the signaling server
     - get messages and message types
+
+    too lazy to continue this for now
